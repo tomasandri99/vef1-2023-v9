@@ -1,5 +1,7 @@
 # Vefforritun 1, 2023: Verkefni 9, JS #3
 
+[Kynning í fyrirlestri](https://youtu.be/2e6hEheac2w).
+
 ## Markmið
 
 - Forrita á móti API með `fetch` og lesa gögn úr JSON.
